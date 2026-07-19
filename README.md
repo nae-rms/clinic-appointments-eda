@@ -26,4 +26,3 @@ The source data (`messy_clinic_appointments.csv`) contained significant noise, m
 ## 💻 Tech Stack & Libraries
 * **Python 3**
 * **Pandas** (Data manipulation and structural cleaning)
-* **Matplotlib & Seaborn** (Data visualization and distribution charting)
